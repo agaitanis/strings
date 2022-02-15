@@ -1,2 +1,2 @@
 # strings
-Coursera course: "Algorithms on Strings"
+Coursera course: Algorithms on Strings
